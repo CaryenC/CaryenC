@@ -1,4 +1,4 @@
-# Ola!
+# 嗨！Hi! Ola!
 - 👋 Hi, I’m @Caryen
 - 👀 I’m interested in a lot of things. (I wish I don't have to sleep)
 - 🌱 I’m currently learning Flutter, CLV, and how to decode Tenet.
